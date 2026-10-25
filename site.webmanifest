@@ -1,0 +1,15 @@
+{
+  "name": "NauticTour — Passeios de Lancha no Rio de Janeiro",
+  "short_name": "NauticTour RJ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4F1EA",
+  "theme_color": "#0A192F",
+  "icons": [
+    {
+      "src": "img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
