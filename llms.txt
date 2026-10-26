@@ -1,0 +1,15 @@
+# NauticTour – Passeios de Lancha no Rio de Janeiro
+
+> NauticTour (Turismo Náutico, Instagram @nautictourrj) faz passeios e aluguel de lancha no Rio de Janeiro com saída da Marina da Glória. Responsável: Matheus Borges. Orçamento pelo WhatsApp (21) 97446-9321.
+
+## Fatos
+- Embarque: Marina da Glória, Glória, Rio de Janeiro - RJ, 20021-140 (Google Maps: https://maps.google.com/?cid=11593817145817037661)
+- Lancha para até 15 passageiros
+- A bordo: churrasqueira na popa, tapete flutuante, solário na proa, flybridge com toldo
+- Roteiro, paradas e horário combinados com o grupo pelo WhatsApp
+- Valores: sob orçamento (dependem da data, horário e tamanho do grupo)
+
+## Links
+- Site: https://nautictour-rio-de-janeiro.vercel.app/
+- WhatsApp: https://wa.me/5521974469321
+- Instagram: https://www.instagram.com/nautictourrj/

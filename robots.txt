@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nautictour-rio-de-janeiro.vercel.app/sitemap.xml
